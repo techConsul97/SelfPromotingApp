@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MySelfPromoteApp</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="display_name">Display Name</string>
+    <string name="checkbox_include_junior">Include \'Junior\'</string>
+    <string name="checkbox_currently_available">Currently Available</string>
+    <string name="textview_available_from_date">Available from date:</string>
+    <string name="button_see_preview">See Preview</string>
+    <string name="button_send_message">Send message</string>
+</resources>
